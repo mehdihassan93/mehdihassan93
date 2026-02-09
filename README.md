@@ -11,7 +11,7 @@
 <br/>
 
 <!-- ANIMATED ROLES -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=D4A853&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=Lead+Android+Developer+%E2%9A%A1+AIDEON+Limited;Open+Source+Contributor+%F0%9F%90%8D+CPython;300%2B+LeetCode+%7C+%24272K+Production+Apps" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=D4A853&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=Lead+Android+Developer+%E2%9A%A1+AIDEON+Limited;Open+Source+Contributor;300%2B+LeetCode+%7C+%24272K+Production+Apps" alt="Roles" />
 
 <br/>
 
