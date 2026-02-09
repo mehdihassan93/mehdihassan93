@@ -43,7 +43,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-🇬🇧 &nbsp; Based in **Manchester, UK**
+🇬🇧 &nbsp; Based in **London, UK**
 
 🏢 &nbsp; Founder & Lead Dev at **AIDEON Limited**
 
@@ -51,11 +51,9 @@
 
 🛒 &nbsp; Building the **$272K Al-Zafar Shopping App**
 
-🐍 &nbsp; Open Source Contributor — **Python CPython**
+🐍 &nbsp; Open Source Contributor
 
 🧠 &nbsp; **300+** LeetCode problems solved
-
-🎯 &nbsp; Actively seeking **FAANG opportunities**
 
 <br clear="right"/>
 
