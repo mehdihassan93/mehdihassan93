@@ -41,61 +41,55 @@
   <samp>WHO AM I?</samp>
 </h2>
 
-```js
-const mehdi = {
-    location: "Manchester, UK 🇬🇧",
-    company: "AIDEON Limited (Founder)",
-    role: "Lead Android Developer",
-    education: {
-        masters: "M.Sc. Web Development — Roehampton (Merit) 🏆",
-        bachelors: "B.Tech Computer Science — India"
-    },
-    currentProject: {
-        name: "Al-Zafar Shopping App",
-        value: "$272,000",
-        platforms: ["Android (Kotlin)", "iOS (SwiftUI)"],
-        team: "8-11 engineers",
-        launch: "Q2 2026 🚀"
-    },
-    openSource: "Python CPython — Merged PRs ✅",
-    leetcode: "300+ problems solved",
-    status: "🔥 Actively seeking FAANG opportunities"
-};
-```
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<br/>
+🇬🇧 &nbsp; Based in **Manchester, UK**
+
+🏢 &nbsp; Founder & Lead Dev at **AIDEON Limited**
+
+🎓 &nbsp; **M.Sc. Web Development** — Roehampton (Merit) 🏆
+
+🛒 &nbsp; Building the **$272K Al-Zafar Shopping App**
+
+🐍 &nbsp; Open Source Contributor — **Python CPython**
+
+🧠 &nbsp; **300+** LeetCode problems solved
+
+🎯 &nbsp; Actively seeking **FAANG opportunities**
+
+<br clear="right"/>
 
 <!-- METRICS -->
 <div align="center">
 <table>
 <tr>
-<td align="center" width="200">
-<img width="60" src="https://img.icons8.com/nolan/64/code.png"/>
-<br/><br/>
-<samp><b>300+</b></samp>
+<td align="center" width="150">
 <br/>
-<sub>LeetCode Solved</sub>
+<img src="https://img.shields.io/badge/300+-FF4D4D?style=for-the-badge" />
+<br/><br/>
+<samp>LeetCode</samp>
+<br/><br/>
 </td>
-<td align="center" width="200">
-<img width="60" src="https://img.icons8.com/nolan/64/money-bag.png"/>
-<br/><br/>
-<samp><b>$272K</b></samp>
+<td align="center" width="150">
 <br/>
-<sub>Production Contract</sub>
+<img src="https://img.shields.io/badge/$272K-D4A853?style=for-the-badge" />
+<br/><br/>
+<samp>Contract</samp>
+<br/><br/>
 </td>
-<td align="center" width="200">
-<img width="60" src="https://img.icons8.com/nolan/64/conference-call.png"/>
-<br/><br/>
-<samp><b>8–11</b></samp>
+<td align="center" width="150">
 <br/>
-<sub>Engineers Led</sub>
+<img src="https://img.shields.io/badge/8--11-FF4D4D?style=for-the-badge" />
+<br/><br/>
+<samp>Engineers</samp>
+<br/><br/>
 </td>
-<td align="center" width="200">
-<img width="60" src="https://img.icons8.com/nolan/64/merge-git.png"/>
-<br/><br/>
-<samp><b>CPython</b></samp>
+<td align="center" width="150">
 <br/>
-<sub>Merged PRs</sub>
+<img src="https://img.shields.io/badge/CPython-D4A853?style=for-the-badge" />
+<br/><br/>
+<samp>Merged PRs</samp>
+<br/><br/>
 </td>
 </tr>
 </table>
