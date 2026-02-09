@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- HERO SECTION -->
@@ -385,7 +385,4 @@ If you find my projects helpful or want to support my contributions:
 <sub>Made with ❤️ by Mehdi Hassan | Last Updated: Feb 2026</sub>
 
 </div>
-```
-
----
 
