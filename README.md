@@ -1,388 +1,414 @@
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:d4a853,100:ff4d4d&height=220&section=header&text=&fontSize=0" />
 
 <div align="center">
 
-<!-- HERO SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mehdi%20Hassan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- ANIMATED NAME -->
+<a href="https://mehdi-hassan.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=55&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&random=false&width=700&height=80&lines=MEHDI+HASSAN" alt="Name" />
+</a>
 
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Lead+Android+Developer+%7C+Mobile+Architect;Open+Source+Contributor+%7C+CPython;300%2B+LeetCode+Problems+Mastered;Building+%24272K+Production+Apps;FAANG-Ready+Engineer" alt="Typing SVG" />
-</h3>
+<br/>
 
-<!-- NAVIGATION BAR -->
-<p>
-  <a href="#about"><img src="https://img.shields.io/badge/📖-About_Me-FF6B6B?style=for-the-badge" /></a>
-  <a href="#tech"><img src="https://img.shields.io/badge/⚡-Tech_Stack-4ECDC4?style=for-the-badge" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/🚀-Projects-95E1D3?style=for-the-badge" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/📊-Statistics-F38181?style=for-the-badge" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/📬-Contact-AA96DA?style=for-the-badge" /></a>
-</p>
+<!-- ANIMATED ROLES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=D4A853&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=75&lines=Lead+Android+Developer+%E2%9A%A1+AIDEON+Limited;Open+Source+Contributor+%F0%9F%90%8D+CPython;300%2B+LeetCode+%7C+%24272K+Production+Apps" alt="Roles" />
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com/in/mehdihassan93"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mehdi-hassan.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:mehdihassan22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/mehdihassan93"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://github.com/mehdihassan93"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=mehdihassan93&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<!-- SOCIAL LINKS - CUSTOM STYLE -->
+<a href="https://linkedin.com/in/mehdihassan93"><img src="https://img.shields.io/badge/-LINKEDIN-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=FF4D4D" /></a>&nbsp;
+<a href="https://mehdi-hassan.com"><img src="https://img.shields.io/badge/-PORTFOLIO-0A0A0B?style=for-the-badge&logo=google-chrome&logoColor=D4A853" /></a>&nbsp;
+<a href="mailto:mehdihassan22@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-0A0A0B?style=for-the-badge&logo=gmail&logoColor=FF4D4D" /></a>&nbsp;
+<a href="https://leetcode.com/mehdihassan93"><img src="https://img.shields.io/badge/-LEETCODE-0A0A0B?style=for-the-badge&logo=leetcode&logoColor=D4A853" /></a>&nbsp;
+<a href="https://github.com/mehdihassan93"><img src="https://img.shields.io/badge/-GITHUB-0A0A0B?style=for-the-badge&logo=github&logoColor=FF4D4D" /></a>
+
+<br/><br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=mehdihassan93&label=PROFILE+VIEWS&color=ff4d4d&style=flat-square&abbreviated=true" alt="Views" />&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/mehdihassan93?label=FOLLOWERS&color=d4a853&style=flat-square" alt="Followers" />
 
 </div>
 
----
+<br/>
 
-<!-- ABOUT SECTION -->
-<h2 id="about">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
-  About Me
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- ABOUT ME -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" />&nbsp;
+  <samp>WHO AM I?</samp>
 </h2>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```kotlin
-class MehdiHassan : Developer() {
-    
-    val basics = mapOf(
-        "name" to "Mehdi Hassan",
-        "role" to "Lead Android Developer",
-        "location" to "Manchester, UK 🇬🇧",
-        "company" to "AIDEON Limited"
-    )
-    
-    val education = Education(
-        degree = "M.Sc. Web Development",
-        grade = "Merit",
-        university = "University of Roehampton",
-        award = "Best Project Award 🏆"
-    )
-    
-    val currentWork = Project(
-        name = "Al-Zafar Shopping App",
-        value = "$272,000",
-        platforms = listOf("Android", "iOS"),
-        tech = listOf("Kotlin", "SwiftUI", "Firebase"),
-        team = "8-11 engineers",
-        launch = "Q2 2026"
-    )
-    
-    val achievements = listOf(
-        "💡 300+ LeetCode Problems Solved",
-        "📝 Python CPython Contributor (Merged PRs)",
-        "🎯 FAANG Interview Ready",
-        "🚀 Production Apps at Scale"
-    )
-    
-    val currentFocus = listOf(
-        "Advanced Android Architecture (MVVM, Clean)",
-        "Jetpack Compose Mastery",
-        "System Design & Scalability",
-        "Contributing to Open Source"
-    )
-}
+```js
+const mehdi = {
+    location: "Manchester, UK 🇬🇧",
+    company: "AIDEON Limited (Founder)",
+    role: "Lead Android Developer",
+    education: {
+        masters: "M.Sc. Web Development — Roehampton (Merit) 🏆",
+        bachelors: "B.Tech Computer Science — India"
+    },
+    currentProject: {
+        name: "Al-Zafar Shopping App",
+        value: "$272,000",
+        platforms: ["Android (Kotlin)", "iOS (SwiftUI)"],
+        team: "8-11 engineers",
+        launch: "Q2 2026 🚀"
+    },
+    openSource: "Python CPython — Merged PRs ✅",
+    leetcode: "300+ problems solved",
+    status: "🔥 Actively seeking FAANG opportunities"
+};
 ```
 
-<br clear="right"/>
+<br/>
 
-### 🎯 Quick Highlights
-
+<!-- METRICS -->
+<div align="center">
 <table>
 <tr>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/android-os.png" width="64px"/><br>
-    <b>Lead Android Dev</b><br>
-    <sub>Kotlin & Compose Expert</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/open-source.png" width="64px"/><br>
-    <b>Open Source</b><br>
-    <sub>CPython Contributor</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/code.png" width="64px"/><br>
-    <b>300+ Problems</b><br>
-    <sub>LeetCode Solutions</sub>
-  </td>
-  <td align="center" width="25%">
-    <img src="https://img.icons8.com/color/96/000000/rocket.png" width="64px"/><br>
-    <b>$272K Project</b><br>
-    <sub>Production Scale</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- TECH STACK SECTION -->
-<h2 id="tech">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px">
-  Tech Stack & Tools
-</h2>
-
-<div align="center">
-
-### 📱 Mobile Development
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-
-### 🔧 Backend & Database
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 💻 Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🛠️ DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-</div>
-
----
-
-<!-- PROJECTS SECTION -->
-<h2 id="projects">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="32px" height="32px">
-  Featured Projects & Work
-</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Al-Zafar Shopping App
-**E-Commerce Platform for Kenz Hypermarket**
-
-```yaml
-Value: $272,000
-Status: In Development (Q2 2026 Launch)
-Team: 8-11 Engineers
-Role: Lead Developer
-
-Tech Stack:
-  Android: Kotlin, Jetpack Compose, Room
-  iOS: SwiftUI, Combine
-  Backend: Firebase
-  
-Features:
-  ✅ Multi-store inventory
-  ✅ Real-time sync
-  ✅ UAE payment gateways
-  ✅ Arabic/English support
-```
-
-**Impact:** Serving Kenz Hypermarket chain across Dubai
-
+<td align="center" width="200">
+<img width="60" src="https://img.icons8.com/nolan/64/code.png"/>
+<br/><br/>
+<samp><b>300+</b></samp>
+<br/>
+<sub>LeetCode Solved</sub>
 </td>
-<td width="50%" valign="top">
-
-### 🏆 Disaster Management App
-**Award-Winning University Project**
-
-```yaml
-Award: Best Project Award 🏆
-University: University of Roehampton
-Year: 2023
-
-Tech Stack:
-  Frontend: Flutter
-  Backend: Node.js
-  Database: MongoDB
-  Maps: Google Maps API
-
-Features:
-  ✅ Real-time alerts
-  ✅ Emergency contacts
-  ✅ Resource mapping
-  ✅ Offline support
-```
-
-**Recognition:** University-wide best project
-
+<td align="center" width="200">
+<img width="60" src="https://img.icons8.com/nolan/64/money-bag.png"/>
+<br/><br/>
+<samp><b>$272K</b></samp>
+<br/>
+<sub>Production Contract</sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 Python CPython Contributions
-**Open Source Work**
-
-```yaml
-Repository: python/cpython
-Contributions: Documentation improvements
-Status: Merged PRs ✅
-
-Areas:
-  📝 Documentation enhancement
-  🐛 Bug fixes
-  ✨ Code examples
-  
-Impact:
-  Helping millions of Python developers
-  worldwide with better documentation
-```
-
+<td align="center" width="200">
+<img width="60" src="https://img.icons8.com/nolan/64/conference-call.png"/>
+<br/><br/>
+<samp><b>8–11</b></samp>
+<br/>
+<sub>Engineers Led</sub>
 </td>
-<td width="50%" valign="top">
-
-### 💡 LeetCode Journey
-**Algorithm Mastery**
-
-```yaml
-Problems Solved: 300+
-Focus Areas:
-  🔹 Dynamic Programming
-  🔹 Trees & Graphs
-  🔹 System Design
-  🔹 Arrays & Strings
-
-Achievements:
-  ✅ Consistent daily practice
-  ✅ FAANG-level problems
-  ✅ Optimized solutions
-  ✅ Interview ready
-```
-
+<td align="center" width="200">
+<img width="60" src="https://img.icons8.com/nolan/64/merge-git.png"/>
+<br/><br/>
+<samp><b>CPython</b></samp>
+<br/>
+<sub>Merged PRs</sub>
 </td>
 </tr>
 </table>
-
 </div>
 
----
+<br/>
 
-<!-- STATS SECTION -->
-<h2 id="stats">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="32px" height="32px">
-  GitHub Statistics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- TECH STACK -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px" />&nbsp;
+  <samp>ARSENAL</samp>
+</h2>
+
+<details open>
+<summary><b>📱 Mobile</b></summary>
+<br/>
+<p>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br/>
+<p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
+<p>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br/>
+<p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</p>
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- FEATURED PROJECTS -->
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" height="30px" />&nbsp;
+  <samp>FLAGSHIP PROJECTS</samp>
+</h2>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Al-Zafar Shopping App</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-PRODUCTION-ff4d4d?style=flat-square" />
+  <img src="https://img.shields.io/badge/VALUE-$272K-d4a853?style=flat-square" />
+</p>
+
+```
+📦 E-Commerce for Kenz Hypermarket Dubai
+├── 📱 Android — Kotlin + Compose
+├── 🍎 iOS — SwiftUI + Combine
+├── 🔥 Backend — Firebase
+├── 👥 Team — 8-11 Engineers
+└── 🚀 Launch — Q2 2026
+```
+
+<p align="center">
+<sub>Multi-store inventory · Real-time sync · UAE payments · Arabic/English</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🏆 Disaster Management App</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-AWARD_WINNER-ff4d4d?style=flat-square" />
+  <img src="https://img.shields.io/badge/BEST-PROJECT-d4a853?style=flat-square" />
+</p>
+
+```
+🆘 Emergency Response Platform
+├── 📱 Frontend — Flutter
+├── ⚙️ Backend — Node.js
+├── 🗄️ Database — MongoDB
+├── 🗺️ Maps — Google Maps API
+└── 🏆 Award — University Best Project
+```
+
+<p align="center">
+<sub>Real-time alerts · Emergency contacts · Resource mapping · Offline support</sub>
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🐍 CPython Contributions</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-MERGED-28c840?style=flat-square" />
+  <img src="https://img.shields.io/badge/REPO-python%2Fcpython-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+```
+📝 Open Source · Python Core
+├── ✅ Documentation PRs — Merged
+├── 📖 Code examples improved
+├── 🐛 Bug fixes contributed
+└── 🌍 Impact — Millions of devs
+```
+
+<p align="center">
+<sub>Active contributor to the world's most popular programming language</sub>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💡 LeetCode Journey</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOLVED-300+-ff4d4d?style=flat-square" />
+  <img src="https://img.shields.io/badge/LEVEL-FAANG_READY-d4a853?style=flat-square" />
+</p>
+
+```
+🧠 Algorithm Mastery
+├── 🔹 Dynamic Programming
+├── 🔹 Trees & Graphs
+├── 🔹 System Design
+├── 🔹 Arrays & Strings
+└── 🎯 Daily consistent practice
+```
+
+<p align="center">
+<sub>Interview-ready · Optimised solutions · FAANG-level problems</sub>
+</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- GITHUB STATS -->
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" />&nbsp;
+  <samp>GITHUB ANALYTICS</samp>
 </h2>
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehdihassan93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihassan93&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehdihassan93&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=D4A853&text_color=E8E6E3&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdihassan93&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=E8E6E3&langs_count=8" />
 
-<!-- Streak Stats -->
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdihassan93&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866"/>
+<br/><br/>
 
-<!-- Activity Graph -->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdihassan93&custom_title=Mehdi's%20Contribution%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdihassan93&theme=radical&hide_border=true&background=0D1117&stroke=FF4D4D&ring=D4A853&fire=FF4D4D&currStreakLabel=D4A853&sideLabels=E8E6E3&dates=8A8A8D" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehdihassan93&custom_title=Contribution%20Timeline&bg_color=0D1117&color=D4A853&line=FF4D4D&point=FFFFFF&area_color=FF4D4D&area=true&hide_border=true" />
 
 </div>
 
-### 🏆 GitHub Trophies
+<br/>
 
+<!-- TROPHIES -->
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=mehdihassan93&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=mehdihassan93&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
-### 📈 Contribution Snake
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- SNAKE GAME -->
+<h2>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30px" height="30px" />&nbsp;
+  <samp>WATCH THE SNAKE EAT MY CONTRIBUTIONS</samp>
+</h2>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/mehdihassan93/mehdihassan93/output/github-snake.svg" width="100%" />
 </picture>
 
----
+</div>
 
-<!-- CONTACT SECTION -->
-<h2 id="contact">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="32px" height="32px">
-  Let's Connect
+> 💡 **Setup:** This uses the [snk](https://github.com/Platane/snk) GitHub Action. Add the workflow below to `.github/workflows/snake.yml` in your profile repo:
+
+<details>
+<summary>📋 <b>Click to copy Snake workflow</b></summary>
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mehdihassan93
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+<!-- CONTACT / CTA -->
+<div align="center">
+
+<h2>
+  <samp>🎯 OPEN TO FAANG OPPORTUNITIES</samp>
 </h2>
 
-<div align="center">
+<p>
+  <samp>I'm actively seeking full-time Android / Mobile Engineering roles at top-tier companies.</samp>
+</p>
 
-### 🎯 Open to FAANG Opportunities
+<br/>
 
-**I'm actively seeking full-time Android/Mobile Engineering roles**
+<a href="mailto:mehdihassan22@gmail.com"><img src="https://img.shields.io/badge/📩_HIRE_ME-FF4D4D?style=for-the-badge" /></a>&nbsp;&nbsp;
+<a href="https://mehdi-hassan.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0A0A0B?style=for-the-badge" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mehdihassan93"><img src="https://img.shields.io/badge/💼_LINKEDIN-0A0A0B?style=for-the-badge" /></a>
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://linkedin.com/in/mehdihassan93">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="64px"/><br>
-    <b>LinkedIn</b><br>
-    <sub>Let's connect professionally</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://mehdi-hassan.com">
-    <img src="https://img.icons8.com/color/96/000000/domain.png" width="64px"/><br>
-    <b>Portfolio</b><br>
-    <sub>Check out my work</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="mailto:mehdihassan22@gmail.com">
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="64px"/><br>
-    <b>Email</b><br>
-    <sub>Drop me a message</sub>
-  </a>
-</td>
-<td align="center">
-  <a href="https://github.com/mehdihassan93">
-    <img src="https://img.icons8.com/color/96/000000/github.png" width="64px"/><br>
-    <b>GitHub</b><br>
-    <sub>Explore my code</sub>
-  </a>
-</td>
-</tr>
-</table>
+<br/><br/>
 
-### 💬 Random Dev Quote
+<!-- RANDOM QUOTE -->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br/>
 
----
-
-### ☕ Support My Open Source Work
-
-If you find my projects helpful or want to support my contributions:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mehdihassan93)
+<!-- SUPPORT -->
+<a href="https://buymeacoffee.com/mehdihassan93">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
 </div>
 
----
+<br/>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:d4a853,100:ff4d4d&height=120&section=footer" />
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-**✨ "First, solve the problem. Then, write the code." – John Johnson**
-
-<sub>Made with ❤️ by Mehdi Hassan | Last Updated: Feb 2026</sub>
-
+  <samp><b>✨ "First, solve the problem. Then, write the code." — John Johnson</b></samp>
+  <br/><br/>
+  <sub>Made with ❤️ by Mehdi Hassan · Last Updated: Feb 2026</sub>
 </div>
-
